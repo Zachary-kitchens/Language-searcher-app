@@ -4,6 +4,7 @@
 //
 //  Created by zach Kitchens on 6/5/21.
 //  Copyright © 2021 Zachary Kitchens. All rights reserved.
+//  Please contact @luak.info@gmail.com if you would like to use any of the code shown here.
 //
 
 import UIKit
